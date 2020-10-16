@@ -11,12 +11,9 @@
     background-color:#3b0fbb;
 }
 
-#txtdiv {
-    margin-top: 5px;
-    font-size: 15px;
-    border: dotted;
-    border-width: 2px;
-    border-color: #ff6a00;
-    background-color: #ff6a00;
-    width:160px;
+
+#txtdiv{
+    background-color:#00ff90;
+    font-size:13px;
+    width:100px;
 }
